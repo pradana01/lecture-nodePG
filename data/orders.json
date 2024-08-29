@@ -1,0 +1,37 @@
+[
+    {
+      "date": "2023-01-12",
+      "productName": "Tasty Frozen Chips",
+      "quantity": "4",
+      "productPrice": "1000000",
+      "CustomerId": "4"
+    },
+    {
+      "date": "2024-12-30",
+      "productName": "Sleek Concrete Bike",
+      "quantity": "61",
+      "productPrice": "508",
+      "CustomerId": "5"
+    },
+    {
+      "date": "2024-12-24",
+      "productName": "Ergonomic Granite Salad",
+      "quantity": "38",
+      "productPrice": "397",
+      "CustomerId": "1"
+    },
+    {
+      "date": "2024-10-30",
+      "productName": "Handmade Metal Soap",
+      "quantity": "4",
+      "productPrice": "565",
+      "CustomerId": "5"
+    },
+    {
+      "date": "2024-11-01",
+      "productName": "Generic Metal Car",
+      "quantity": "8",
+      "productPrice": "240",
+      "CustomerId": "5"
+    }
+  ]
